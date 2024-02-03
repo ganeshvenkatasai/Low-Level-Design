@@ -1,6 +1,6 @@
-import java.util.HashMap;
+package Splitwise;
+
 import java.util.Map;
-import java.util.Scanner;
 
 public class UserManager {
     static int userCount = 4;

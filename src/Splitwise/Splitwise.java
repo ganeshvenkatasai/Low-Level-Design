@@ -1,3 +1,5 @@
+package Splitwise;
+
 import java.util.*;
 
 public class Splitwise {
